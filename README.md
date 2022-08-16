@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orbanjames
-- 👀 I’m interested in Clojure and Java programming languages.
+- 👀 I’m interested in Javascript, Clojure and Java programming languages.
 - 🌱 I’m currently learning new skills in the area of software engineering and computer sciences at the postgraduate levels....
-- 💞️ I’m looking to collaborate on clojure and java projects...
+- 💞️ I’m looking to collaborate on javascript and React projects...
 - 📫 How to reach me email:orbanjames5@gmail.com or contact: +381611806352.
 
 <!---
